@@ -6,6 +6,8 @@ A classification project using **Logistic Regression** to predict customer churn
 
 ## 📁 Project Structure
 
+```
+
 customer-churn-logistic-regression/
 │
 ├── Logistic_Regression_Churn.ipynb # Jupyter notebook with complete code and analysis
@@ -14,7 +16,7 @@ customer-churn-logistic-regression/
 ├── README.md
 ├── LICENSE
 └── sentiment_dataset.csv
-
+```
 ---
 
 ## 🎯 Project Objectives
