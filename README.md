@@ -8,8 +8,8 @@ A classification project using **Logistic Regression** to predict customer churn
 
 ```
 
-├── Logistic_Regression_Churn.ipynb # Jupyter notebook with complete code and analysis
-├── churn_data.csv # Cleaned dataset (from Kaggle - loaded in Kaggle environment)
+├── logistic_regression.ipynb # Jupyter notebook with complete code and analysis
+├── Telco_customer_data.xlsx # Cleaned dataset (from Kaggle - loaded in Kaggle environment)
 ├── README.md # Project documentation (this file)├── sentiment-analysis.ipynb
 
 ```
